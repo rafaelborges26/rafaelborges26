@@ -1,6 +1,6 @@
-### Olá! Eu sou o Rafael Borges👋
+### Hello! i am Rafael Borges👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 I am working with Front-end
 
 <div>
   <a href="https://github.com/rafaelborges26">
